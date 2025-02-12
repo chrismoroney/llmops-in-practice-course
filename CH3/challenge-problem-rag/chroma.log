@@ -61,3 +61,11 @@
 [32mINFO[0m:     [11-02-2025 20:48:24] 127.0.0.1:55552 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
 [32mINFO[0m:     [11-02-2025 20:48:24] 127.0.0.1:55551 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
 [32mINFO[0m:     [11-02-2025 20:48:25] 127.0.0.1:55551 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:08:31] 127.0.0.1:55757 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:08:32] 127.0.0.1:55758 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:08:32] 127.0.0.1:55757 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:08:32] 127.0.0.1:55757 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:09:32] 127.0.0.1:55774 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:09:32] 127.0.0.1:55775 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:09:32] 127.0.0.1:55774 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 21:09:32] 127.0.0.1:55774 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
