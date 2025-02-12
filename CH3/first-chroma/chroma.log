@@ -1,0 +1,39 @@
+[33mWARNING[0m:  [11-02-2025 16:19:20] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048575. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-02-2025 16:19:20] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component System
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component SqliteDB
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component SimpleQuotaEnforcer
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component Posthog
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component LocalExecutor
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component SegmentAPI
+[36mDEBUG[0m:    [11-02-2025 16:19:20] Starting component SimpleAsyncRateLimitEnforcer
+[32mINFO[0m:     [11-02-2025 16:19:20] Started server process [[36m21329[0m]
+[32mINFO[0m:     [11-02-2025 16:19:20] Waiting for application startup.
+[32mINFO[0m:     [11-02-2025 16:19:20] Application startup complete.
+[32mINFO[0m:     [11-02-2025 16:19:20] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-02-2025 16:19:35] ::1:53473 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [11-02-2025 16:22:14] ::1:53495 - "GET /api/v1/collections HTTP/1.1" 400
+[32mINFO[0m:     [11-02-2025 16:22:37] ::1:53498 - "POST /api/v1/collections HTTP/1.1" 200
+[36mDEBUG[0m:    [11-02-2025 16:22:37] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-02-2025 16:22:37] ::1:53498 - "POST /api/v1/collections/125bf53f-fc88-4e6d-95b4-42cc72951dfd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-02-2025 16:22:37] ::1:53498 - "POST /api/v1/collections/125bf53f-fc88-4e6d-95b4-42cc72951dfd/query HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 16:22:48] ::1:53500 - "GET /api/v1/collections HTTP/1.1" 400
+[32mINFO[0m:     [11-02-2025 16:27:18] ::1:53553 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [11-02-2025 16:27:29] Shutting down
+[32mINFO[0m:     [11-02-2025 16:27:29] Waiting for application shutdown.
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component System
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component SegmentAPI
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component LocalExecutor
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component PersistentLocalHnswSegment
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component SimpleAsyncRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component Posthog
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component SimpleQuotaEnforcer
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component SqliteDB
+[36mDEBUG[0m:    [11-02-2025 16:27:29] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [11-02-2025 16:27:29] Application shutdown complete.
+[32mINFO[0m:     [11-02-2025 16:27:29] Finished server process [[36m21329[0m]

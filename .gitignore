@@ -4,3 +4,6 @@ Ch1/Logging/node_modules/
 Ch1/Logging/.env
 Ch2/Chatbot_with_feedback/node_modules/
 Ch2/Chatbot_with_feedback/.env
+Ch3/first-chroma/llmenv
+Ch3/first-chroma/data
+Ch3/first-chroma/node_modules
