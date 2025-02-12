@@ -11,3 +11,15 @@ Ch3/first-rag/.env
 Ch3/first-rag/data
 Ch3/first-rag/llmenv
 Ch3/first-rag/chroma.log
+Ch3/search-rag/llmenv
+Ch3/search-rag/data
+Ch3/search-rag/.env
+Ch3/search-rag/node_modules
+Ch3/serve-rag/llmenv
+Ch3/serve-rag/data
+Ch3/serve-rag/.env
+Ch3/serve-rag/node_modules
+Ch3/challenge-problem-rag/venv
+Ch3/challenge-problem-rag/data
+Ch3/challenge-problem-rag/.env
+Ch3/challenge-problem-rag/node_modules

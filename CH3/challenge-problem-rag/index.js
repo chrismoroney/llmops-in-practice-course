@@ -78,7 +78,7 @@ async function listCollections() {
 
 async function main() {
   try {
-    //await listCollections();
+    await listCollections();
 
     const collectionMetadata = { description: 'My first collection' };
     const createdCollection = await createCollection(collectionMetadata);

@@ -1,0 +1,63 @@
+[33mWARNING[0m:  [11-02-2025 20:23:31] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048575. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-02-2025 20:23:32] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component System
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component SqliteDB
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component SimpleQuotaEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component Posthog
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component LocalExecutor
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component SegmentAPI
+[36mDEBUG[0m:    [11-02-2025 20:23:32] Starting component SimpleAsyncRateLimitEnforcer
+[32mINFO[0m:     [11-02-2025 20:23:32] Started server process [[36m40798[0m]
+[32mINFO[0m:     [11-02-2025 20:23:32] Waiting for application startup.
+[32mINFO[0m:     [11-02-2025 20:23:32] Application startup complete.
+[32mINFO[0m:     [11-02-2025 20:23:32] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-02-2025 20:24:47] Shutting down
+[32mINFO[0m:     [11-02-2025 20:24:47] Waiting for application shutdown.
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component System
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component SegmentAPI
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component LocalExecutor
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component SimpleAsyncRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component Posthog
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component SimpleQuotaEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component SqliteDB
+[36mDEBUG[0m:    [11-02-2025 20:24:47] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [11-02-2025 20:24:47] Application shutdown complete.
+[32mINFO[0m:     [11-02-2025 20:24:47] Finished server process [[36m40798[0m]
+[33mWARNING[0m:  [11-02-2025 20:30:04] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048575. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-02-2025 20:30:04] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component System
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component SqliteDB
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component SimpleQuotaEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component Posthog
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component SimpleRateLimitEnforcer
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component LocalExecutor
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component SegmentAPI
+[36mDEBUG[0m:    [11-02-2025 20:30:04] Starting component SimpleAsyncRateLimitEnforcer
+[32mINFO[0m:     [11-02-2025 20:30:04] Started server process [[36m41889[0m]
+[32mINFO[0m:     [11-02-2025 20:30:04] Waiting for application startup.
+[32mINFO[0m:     [11-02-2025 20:30:04] Application startup complete.
+[32mINFO[0m:     [11-02-2025 20:30:04] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-02-2025 20:35:27] 127.0.0.1:55483 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:35:27] 127.0.0.1:55484 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:35:27] 127.0.0.1:55483 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
+[36mDEBUG[0m:    [11-02-2025 20:35:28] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-02-2025 20:35:28] 127.0.0.1:55483 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:36:58] 127.0.0.1:55495 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:36:58] 127.0.0.1:55496 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:36:58] 127.0.0.1:55495 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:36:59] 127.0.0.1:55495 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:37:41] 127.0.0.1:55499 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:37:41] 127.0.0.1:55500 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:37:41] 127.0.0.1:55499 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:37:42] 127.0.0.1:55499 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:48:24] 127.0.0.1:55551 - "GET /api/v2/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:48:24] 127.0.0.1:55552 - "GET /api/v2/tenants/default_tenant/databases/default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:48:24] 127.0.0.1:55551 - "GET /api/v2/tenants/default_tenant/databases/default_database/collections/pdf_embeddings HTTP/1.1" 200
+[32mINFO[0m:     [11-02-2025 20:48:25] 127.0.0.1:55551 - "POST /api/v2/tenants/default_tenant/databases/default_database/collections/421938db-5f32-4ff9-a869-330cd8f85e25/query HTTP/1.1" 200
