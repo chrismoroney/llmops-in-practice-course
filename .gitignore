@@ -23,3 +23,7 @@ Ch3/challenge-problem-rag/venv
 Ch3/challenge-problem-rag/data
 Ch3/challenge-problem-rag/.env
 Ch3/challenge-problem-rag/node_modules
+Ch4/logging-metrics-versioning/llmenv
+Ch4/logging-metrics-versioning/data
+Ch4/logging-metrics-versioning/.env
+Ch4/logging-metrics-versioning/node_modules

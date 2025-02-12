@@ -1,0 +1,43 @@
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T05:47:37.168Z"}
+{"level":"info","message":"Assigned user ID: 150eb4e0c2e21213c354eebb8edb705a","service":"rag-chatbot","timestamp":"2025-02-12T05:47:37.170Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T05:47:40.843Z"}
+{"level":"info","message":"Assigned user ID: 75edc764267f0f9688cccc0e3c2135cb","service":"rag-chatbot","timestamp":"2025-02-12T05:47:40.844Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T05:47:42.171Z"}
+{"level":"info","message":"Assigned user ID: e01ddb1dd47d45cc7ba289c94c222386","service":"rag-chatbot","timestamp":"2025-02-12T05:47:42.172Z"}
+{"level":"info","message":"Received message from user 150eb4e0c2e21213c354eebb8edb705a","service":"rag-chatbot","timestamp":"2025-02-12T05:48:03.907Z"}
+{"level":"info","message":"Generated response for user 150eb4e0c2e21213c354eebb8edb705a","service":"rag-chatbot","timestamp":"2025-02-12T05:48:12.166Z"}
+{"level":"info","message":"Feedback logged for user 150eb4e0c2e21213c354eebb8edb705a, message 6355e46fa7b46a7e99b9437813b984de: neutral","service":"rag-chatbot","timestamp":"2025-02-12T05:49:16.753Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:01:31.172Z"}
+{"level":"info","message":"Assigned user ID: db0df04217c24bc705100010129548a3","service":"rag-chatbot","timestamp":"2025-02-12T06:01:31.175Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:01:32.311Z"}
+{"level":"info","message":"Assigned user ID: 6d2745c1c88da8ef4a6d3dd24120489d","service":"rag-chatbot","timestamp":"2025-02-12T06:01:32.312Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:01:35.158Z"}
+{"level":"info","message":"Assigned user ID: c75b5a018469c862d2880d7ddf5814ae","service":"rag-chatbot","timestamp":"2025-02-12T06:01:35.159Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:04:20.605Z"}
+{"level":"info","message":"Assigned user ID: 14ef2923fc11d5d17d1994c34f340929","service":"rag-chatbot","timestamp":"2025-02-12T06:04:20.607Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:04:21.169Z"}
+{"level":"info","message":"Assigned user ID: f182455c5e59038a9d3492bbf393411c","service":"rag-chatbot","timestamp":"2025-02-12T06:04:21.171Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:04:22.162Z"}
+{"level":"info","message":"Assigned user ID: 47ed9b8d7f8440d989f3f271d83c00d6","service":"rag-chatbot","timestamp":"2025-02-12T06:04:22.164Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:04:49 +0000] \"GET /version HTTP/1.1\" 200 19 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:04:49.712Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:07:22 +0000] \"POST /version/update HTTP/1.1\" 200 19 \"-\" \"curl/8.7.1\"","service":"rag-chatbot","timestamp":"2025-02-12T06:07:22.607Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:07:32 +0000] \"POST /version/update HTTP/1.1\" 200 19 \"-\" \"curl/8.7.1\"","service":"rag-chatbot","timestamp":"2025-02-12T06:07:32.879Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:07:45 +0000] \"POST /version/update HTTP/1.1\" 200 19 \"-\" \"curl/8.7.1\"","service":"rag-chatbot","timestamp":"2025-02-12T06:07:45.142Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:07:46 +0000] \"POST /version/update HTTP/1.1\" 200 19 \"-\" \"curl/8.7.1\"","service":"rag-chatbot","timestamp":"2025-02-12T06:07:46.308Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:07:54 +0000] \"POST /version/update HTTP/1.1\" 200 19 \"-\" \"curl/8.7.1\"","service":"rag-chatbot","timestamp":"2025-02-12T06:07:54.328Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:08:01 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:08:01.876Z"}
+{"level":"info","message":"Client disconnected: 47ed9b8d7f8440d989f3f271d83c00d6","service":"rag-chatbot","timestamp":"2025-02-12T06:08:01.882Z"}
+{"level":"info","message":"New client connected","service":"rag-chatbot","timestamp":"2025-02-12T06:08:01.928Z"}
+{"level":"info","message":"Assigned user ID: 3a313b65eb8de9c1c4f79351f43d3241","service":"rag-chatbot","timestamp":"2025-02-12T06:08:01.929Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:08:06 +0000] \"GET /admin HTTP/1.1\" 200 5300 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:08:06.297Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:08:06 +0000] \"GET /admin/feedback-files HTTP/1.1\" 200 99 \"http://localhost:3000/admin\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:08:06.316Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:08:06 +0000] \"GET /admin/feedback-summary HTTP/1.1\" 200 45 \"http://localhost:3000/admin\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:08:06.323Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:08:06 +0000] \"GET /admin/feedback-file/0954803c3083d77bc74afb5200733b1a_feedback.json HTTP/1.1\" 304 - \"http://localhost:3000/admin\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:08:06.357Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:08:08 +0000] \"GET /metrics HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:08:08.576Z"}
+{"level":"info","message":"Received message from user 3a313b65eb8de9c1c4f79351f43d3241","service":"rag-chatbot","timestamp":"2025-02-12T06:08:58.174Z"}
+{"level":"info","message":"Generated response for user 3a313b65eb8de9c1c4f79351f43d3241","service":"rag-chatbot","timestamp":"2025-02-12T06:09:03.626Z"}
+{"level":"info","message":"Received message from user 3a313b65eb8de9c1c4f79351f43d3241","service":"rag-chatbot","timestamp":"2025-02-12T06:09:45.751Z"}
+{"level":"info","message":"Feedback logged for user 3a313b65eb8de9c1c4f79351f43d3241, message a29db2ac03967457b571302e0f507df2: neutral","service":"rag-chatbot","timestamp":"2025-02-12T06:09:45.759Z"}
+{"level":"info","message":"Generated response for user 3a313b65eb8de9c1c4f79351f43d3241","service":"rag-chatbot","timestamp":"2025-02-12T06:09:59.640Z"}
+{"level":"info","message":"Feedback logged for user 3a313b65eb8de9c1c4f79351f43d3241, message 13669410a115a8de01ee8b36691dae65: neutral","service":"rag-chatbot","timestamp":"2025-02-12T06:10:06.952Z"}
+{"level":"info","message":"::1 - - [12/Feb/2025:06:10:11 +0000] \"GET /metrics HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36\"","service":"rag-chatbot","timestamp":"2025-02-12T06:10:11.812Z"}
