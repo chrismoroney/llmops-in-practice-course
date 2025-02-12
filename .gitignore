@@ -7,3 +7,7 @@ Ch2/Chatbot_with_feedback/.env
 Ch3/first-chroma/llmenv
 Ch3/first-chroma/data
 Ch3/first-chroma/node_modules
+Ch3/first-rag/.env
+Ch3/first-rag/data
+Ch3/first-rag/llmenv
+Ch3/first-rag/chroma.log
