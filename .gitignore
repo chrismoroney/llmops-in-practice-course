@@ -27,3 +27,7 @@ Ch4/logging-metrics-versioning/llmenv
 Ch4/logging-metrics-versioning/data
 Ch4/logging-metrics-versioning/.env
 Ch4/logging-metrics-versioning/node_modules
+Ch4/update-db/llmenv
+Ch4/update-db/data
+Ch4/update-db/.env
+Ch4/update-db/node_modules
